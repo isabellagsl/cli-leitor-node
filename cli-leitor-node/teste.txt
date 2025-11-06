@@ -1,0 +1,2 @@
+Conteúdo de teste para a CLI
+A ser lido pelo Node.js.
